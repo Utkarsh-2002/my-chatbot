@@ -5,7 +5,7 @@
       "src": "embedding_server.py",
       "use": "@vercel/python",
       "config": {
-        "maxLambdaSize": "50mb"  // Increase the max size if you're dealing with larger payloads
+        "maxLambdaSize": "50mb"  
       }
     }
   ],
